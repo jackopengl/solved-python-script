@@ -1,0 +1,5 @@
+Download Link: https://assignmentchef.com/product/solved-python-script
+<br>
+<p class="ui header product-top-header" title="Python Script Solution">Through your script, programmatically determine and output several different segments of data. As part of the exercise, we would like you to be able to use your script to load the passage of text with the use of the command line and then produce the requested data. When the text has successfully loaded, these five segments of data should be shown:
+
+1. The number of individual words that are in the text (this means that the code is not counting duplicate words)2. The number of words that have more than 5 letters3. The number of words that have less than 5 letters4. The amount of words that have an even amount of letters5. The amount of words that have an odd amount of letter
